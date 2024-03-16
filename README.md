@@ -1,6 +1,21 @@
-# anomalous
- a 42 key alice-ish ortho keyboard for red dragon low profile switches
+# Anomalous Keyboard
 
-prototype 1 has been ordered from JLCPCB and is otherwise untested.
+## Features
 
-I am not liable for anything you do with these files, as they come with no guarantees of functionality or even safety.  Reproduce at your own risk.
+- Integrated STM32 Microcontroller
+  
+- 42 Key Alice-ish Ortho Layout
+
+- Red Dragon Low Profile Switches
+
+- Solder Only
+
+## Repository Contents
+
+- `pcb/`: KiCAD and production files
+
+## Status
+
+- Prototype 1 PCBs ordered 3/15/2024
+
+**DISCLAIMER: I'm not a doctor.  This is not medical advice.  I'm also only a network engineer.  You assume all liability in using or reproducing these files.**
